@@ -1,4 +1,4 @@
-# Tsuikyu_Kipfel_Stems
+# Tsuikyu_Mamehinata_Stems
 
 Samples for Remix
 
@@ -6,10 +6,10 @@ Samples for Remix
 
 ## Track Information
 
-- **Title:** Kipfel  
+- **Title:** Mamehinata  
 - **Producer:** Tsuikyu  
-- **Key:** A minor  
-- **BPM:** 128  
+- **Key:** A major  
+- **BPM:** 150  
 - **DAW:** Image-Line – FL Studio  
 - **Vocal:** Dreamtonics – Synthesizer V Studio Pro 2  
   - Voicebank: INTERNET Inc. – Otomachi Una 2  
