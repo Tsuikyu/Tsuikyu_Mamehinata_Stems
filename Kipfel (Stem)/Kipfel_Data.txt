@@ -1,7 +1,0 @@
-Title: Kipfel
-Producer: Tsuikyu
-Key: A minor
-BPM: 128
-DAW: Image-Line - FL Studio
-Vocal: Dreamtonics - Synbthesizer V Studio Pro 2 (INTERNET Inc. - Otomachi Una 2)
-Copyright holder: Kameyama (@mukumi)
